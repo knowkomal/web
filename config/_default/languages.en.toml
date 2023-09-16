@@ -2,8 +2,8 @@ languageCode = "en"
 languageName = "English"
 weight = 1
 
-title = "kom.al"
-# copyright = "Copy, _right?_ :thinking_face:"
+title = "Komal Singh"
+copyright = "&copy; 2023 Komal Singh"
 
 [params]
   isoCode = "en"
@@ -19,7 +19,7 @@ title = "kom.al"
   name = "Komal Singh"
   image = "img/author.jpg"
   headline = "A generally awesome human"
-  bio = "Balle Balle"
+  bio = "Just balle balle all the way"
   links = [
   { email = "mailto:hi@kom.al" },
   #   { link = "https://link-to-some-website.com/" },

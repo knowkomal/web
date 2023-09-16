@@ -3,6 +3,7 @@
 # https://jpanther.github.io/congo/docs/getting-started/
 
 baseURL = "https://kom.al/"
+title = "Komal's World"
 defaultContentLanguage = "en"
 theme = "congo"
 
