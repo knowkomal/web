@@ -1,17 +1,11 @@
-# -- Theme Options --
-# These options control how the theme functions and allow you to
-# customise the display of your website.
-#
-# Refer to the theme docs for more details about each of these parameters.
-# https://jpanther.github.io/congo/docs/configuration/#theme-parameters
-
-colorScheme = "congo"
-defaultAppearance = "light" # valid options: light or dark
+colorScheme = "Congo"
+defaultAppearance = "light"  # valid options: light or dark
 autoSwitchAppearance = false
+fullContents = true
 
 enableSearch = true
 enableCodeCopy = true
-enableImageLazyLoading = true
+mainSections = ["post"]
 
 # robots = ""
 fingerprintAlgorithm = "sha256"
@@ -30,8 +24,8 @@ fingerprintAlgorithm = "sha256"
 
 [homepage]
   layout = "profile" # valid options: page, profile, custom
-  showRecent = false
-  recentLimit = 2
+  showRecent = true
+  recentLimit = 5
 
 [article]
   showDate = true

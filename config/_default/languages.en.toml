@@ -12,8 +12,8 @@ copyright = "&copy; 2023 Komal Singh"
 
   dateFormat = "2 January 2006"
 
-  mainSections = ["section1", "section2"]
-  description = "My awesome website"
+  mainSections = ["post"]
+  description = "Komal's World"
 
 [author]
   name = "Komal Singh"

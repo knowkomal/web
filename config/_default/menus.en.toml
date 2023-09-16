@@ -21,7 +21,7 @@ weight            = 3
 [[main]]
 name              = "Blog"
 identifier        = "blog"
-url               = "https://komal.sh/"
+url               = "/blog/"
 weight            = 10
 
 [[main]]
