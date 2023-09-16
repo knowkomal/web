@@ -16,16 +16,29 @@ weight            = 2
 name              = "Domain Hacks"
 identifier        = "domainhacks"
 url               = "/domainhacks/"
-weight            = 3
+weight            = 4
 
 [[main]]
 name              = "Blog"
 identifier        = "blog"
 url               = "/blog/"
-weight            = 10
+weight            = 3
 
 [[main]]
 name              = "Subscribe"
 identifier        = "subscribe"
 url               = "/subscribe/"
-weight            = 20
+weight            = 5
+
+[[footer]]
+name              = ""
+identifier        = "privacy"
+url               = "/privacy/"
+weight            = 6
+
+
+[[footer]]
+name              = "DomainBoi"
+identifier        = "DomainBoi"
+url               = "https://boi.domains/"
+weight            = 7
