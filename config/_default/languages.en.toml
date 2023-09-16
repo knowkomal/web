@@ -1,0 +1,12 @@
+# config/_default/languages.en.toml
+
+title = "kom.al"
+
+[author]
+name = "Komal Singh"
+image = "img/author.jpg"
+headline = "A generally awesome human"
+bio = "A little bit about me"
+links = [
+  { twitter = "https://twitter.com/knowkomal" }
+]
