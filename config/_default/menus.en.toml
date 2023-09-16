@@ -34,11 +34,11 @@ weight            = 5
 name              = ""
 identifier        = "privacy"
 url               = "/privacy/"
-weight            = 6
+weight            = 8
 
 
 [[footer]]
 name              = "DomainBoi"
 identifier        = "DomainBoi"
 url               = "https://boi.domains/"
-weight            = 7
+weight            = 6
