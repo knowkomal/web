@@ -42,3 +42,9 @@ name              = "DomainBoi"
 identifier        = "DomainBoi"
 url               = "https://boi.domains/"
 weight            = 6
+
+[[footer]]
+name              = "Report Lost Item"
+identifier        = "lostitem"
+url               = "https://lost.kom.al"
+weight            = 7
