@@ -34,17 +34,29 @@ weight            = 5
 name              = ""
 identifier        = "privacy"
 url               = "/privacy/"
-weight            = 8
+weight            = 11
 
 
 [[footer]]
 name              = "DomainBoi"
 identifier        = "DomainBoi"
 url               = "https://boi.domains/"
-weight            = 6
+weight            = 9
+[[footer]]
+name              = "Categories"
+identifier        = "categories"
+url               = "/categories/"
+weight            = 7
+
+[[footer]]
+name              = "Tags"
+identifier        = "tags"
+url               = "/tags/"
+weight            = 8
+
 
 [[footer]]
 name              = "Report Lost Item"
 identifier        = "lostitem"
 url               = "https://lost.kom.al"
-weight            = 7
+weight            = 10

@@ -13,13 +13,13 @@ copyright = "&copy; 2023 Komal Singh"
  dateFormat = "2006-01-02"
 
   mainSections = ["post"]
-  description = "Komal's World"
+  description = "A guy with a blog, yikes."
 
 [author]
   name = "Komal Singh"
   image = "img/author.jpg"
   headline = "A generally awesome human"
-  bio = "Just balle balle all the way"
+  bio = "A guy with a blog, yikes."
   links = [
   { email = "mailto:hi@kom.al" },
   { mastodon = "https://mas.to/@komal" },
