@@ -9,6 +9,6 @@ tags = ["music", "happy"]
 
 If you follow Babbulicious, you will love his new song 'Khand Mishri'.
 
-Listen to his love towards [Khand Mishri](https://www.youtube.com/watch?v=KhqXwzV_uRk).
+Listen to his love towards [Khand Mishri](https://www.youtube.com/watch?v=-8rArp_S844).
 
-{{< youtube "KhqXwzV_uRk" >}}
+{{< youtube "-8rArp_S844" >}}
