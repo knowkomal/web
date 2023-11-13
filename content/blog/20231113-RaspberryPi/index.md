@@ -9,6 +9,7 @@ type = "post"
 draft = "false"
 categories = ["raspberrypi"]
 tags = ["tech"]
+images = ["https://kom.al/blog/20231113-raspberrypi/thumb.jpg"]
 +++
 
 ![](thumb.jpg)
