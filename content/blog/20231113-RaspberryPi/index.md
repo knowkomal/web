@@ -11,6 +11,8 @@ categories = ["raspberrypi"]
 tags = ["tech"]
 +++
 
+![](thumb.jpg)
+
 Ever since I got my Raspberry Pi 4 Model B with 4GB of RAM in January 2020, it's been a reliable helper at home. It can do more than you might think, so let me share how I've made it useful for privacy, automation, and entertainment without getting too techy.
 
 ## Blocking Annoying Ads and Trackers with AdGuard Home
@@ -23,15 +25,15 @@ My Philips Wiz lights ([Bulb](https://amzn.eu/d/g5PahRL) & [Batten](https://amzn
 Turned my Raspberry Pi into a mini Netflix at home using [Plex](https://plex.tv) Media Server. Now, I can watch my favorite shows, movies, and listen to music on any device at home. You can set it up too by following this guide: [Plex Media Server Guide](https://pimylifeup.com/raspberry-pi-plex-server/).
 
 ## Turning LED Strips On and Off with the Raspberry Pi
-My [LED strips](https://amzn.eu/d/fOHDthp) didn't come with a remote, so I got creative. Connected them to the Raspberry Pi and set up a way to turn them on and off using Shortcut App on my Apple devices to run script over SSH. It's not as complicated as it sounds. Here are the SSH commands:
+My [LED strips](https://amzn.eu/d/fOHDthp) didn't come with a remote, so I got creative. I connected them to the USB port of the Raspberry Pi and easily managed them by remotely switching the power to the USB ports on and off using SSH commands. These commands are sent using the Shortcut App on my Apple devices to run scripts over SSH, hence allowing me to remotely control the LED strips. It's not as complicated as it sounds..
 
-To turn it on
+#### SSH command to turn it on:
 {{< highlight go >}}echo password | sudo -S uhubctl -l 2 -a 1{{< /highlight >}}
-To turn it off
+#### SSH command to turn it off:
 {{< highlight go >}}echo password | sudo -S uhubctl -l 2 -a 0{{< /highlight >}}
 
 ## Using Raspberry Pi as a Bridge Between Mobile and Router
 In the past, there were no wired internet connections in my area. So, I came up with a solution using the Raspberry Pi. I connected my mobile and the router through the Pi, bringing internet access everywhere at home. If you want to know more about how I did it, check out this solution on [Stack Overflow](https://stackoverflow.com/q/41766414).
 
 ## Conclusion
-So, there you have it. Your Raspberry Pi can do a lot for you at home, and it doesn't take a tech genius to set these things up. Give it a try and make the most of your little helper!
+So, there you have it. Your Raspberry Pi can do a lot for you at home, and it doesn't take a tech genius to set these things up. Give it a try and make the most of your little helper! If you have any specific questions or need more details about these projects, don't hesitate to reach out. I'm here to help, so feel free to ask anything!

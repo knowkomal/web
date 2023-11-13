@@ -10,8 +10,10 @@ categories = ["general"]
 tags = ["music"]
 +++
 
+![](thumb.jpg)
+
 If you follow Babbulicious, you will love his new song 'Khand Mishri'.
 
 Listen to his love towards [Khand Mishri](https://www.youtube.com/watch?v=-8rArp_S844).
-
+### Khand Mishri - Official Music Video
 {{< youtube "-8rArp_S844" >}}
