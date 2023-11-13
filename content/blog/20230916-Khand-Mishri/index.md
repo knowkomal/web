@@ -8,6 +8,7 @@ showDateUpdated = "true"
 type = 'post'
 categories = ["general"]
 tags = ["music"]
+images = ["https://kom.al/blog/20230916-Khand-Mishri/thumb.jpg"]
 +++
 
 ![](thumb.jpg)
