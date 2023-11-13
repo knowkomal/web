@@ -1,10 +1,13 @@
 +++
 title = 'Khand Mishri - Babbulicious'
-description = 'Listen to babbus love towards Khand Mishri'
-date = 2023-09-16T20:13:21+05:30
+description = "Listen to babbu's love towards Khand Mishri."
+summary = "Listen to babbu's love towards Khand Mishri."
+date = 2023-09-16
+lastmod = 2023-09-20
+showDateUpdated = "true"
 type = 'post'
 categories = ["general"]
-tags = ["music", "happy"]
+tags = ["music"]
 +++
 
 If you follow Babbulicious, you will love his new song 'Khand Mishri'.
