@@ -1,6 +1,6 @@
 colorScheme = "Congo"
 defaultAppearance = "light"  # valid options: light or dark
-autoSwitchAppearance = true
+autoSwitchAppearance = false
 fullContents = true
 
 enableSearch = true
@@ -11,7 +11,7 @@ mainSections = ["post"]
 fingerprintAlgorithm = "sha256"
 
 [header]
-  layout = "hybrid" # valid options: basic, hamburger, hybrid, custom
+  layout = "basic" # valid options: basic, hamburger, hybrid, custom
   logo = "img/logo.jpg"
   logoDark = "img/dark-logo.jpg"
   showTitle = false

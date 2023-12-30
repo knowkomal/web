@@ -26,7 +26,7 @@ My Philips Wiz lights ([Bulb](https://amzn.eu/d/g5PahRL) & [Batten](https://amzn
 Turned my Raspberry Pi into a mini Netflix at home using [Plex](https://plex.tv) Media Server. Now, I can watch my favorite shows, movies, and listen to music on any device at home. You can set it up too by following this guide: [Plex Media Server Guide](https://pimylifeup.com/raspberry-pi-plex-server/).
 
 ## Turning LED Strips On and Off with the Raspberry Pi
-My [LED strips](https://amzn.eu/d/fOHDthp) didn't come with a remote, so I got creative. I connected them to the USB port of the Raspberry Pi and easily managed them by remotely switching the power to the USB ports on and off using SSH commands. These commands are sent using the Shortcut App on my Apple devices to run scripts over SSH, hence allowing me to remotely control the LED strips. It's not as complicated as it sounds..
+My [LED strips](https://amzn.eu/d/fOHDthp) didn't come with a remote, so I got creative. I connected them to the USB port of the Raspberry Pi and easily managed them by remotely switching the power to the USB ports on and off using SSH commands. These commands are sent using the Shortcut App on my Apple devices over SSH, hence allowing me to remotely control the LED strips. It's not as complicated as it sounds..
 
 #### SSH command to turn it on:
 {{< highlight go >}}echo password | sudo -S uhubctl -l 2 -a 1{{< /highlight >}}
