@@ -38,13 +38,13 @@ weight            = 6
 name              = "Categories"
 identifier        = "categories"
 url               = "/categories/"
-weight            = 20
+weight            = 21
 
 [[footer]]
 name              = "Tags"
 identifier        = "tags"
 url               = "/tags/"
-weight            = 21
+weight            = 20
 
 [[footer]]
 name              = "DomainBoi"
@@ -59,7 +59,13 @@ url               = "https://lost.kom.al"
 weight            = 23
 
 [[footer]]
+name              = "Want This Domain?"
+identifier        = "wantthisdomain"
+url               = "/btd/"
+weight            = 24
+
+[[footer]]
 name              = ""
 identifier        = "privacy"
 url               = "/privacy/"
-weight            = 24
+weight            = 25
